@@ -4,7 +4,7 @@
 
 Meu nome é Beatriz Pontes, tenho 18 anos e sou natural de Fortaleza (CE). Estou cursando o técnico em Análise e Desenvolvimento de Sistema, com foco em me graduar em Análise de Dados.
 
-Sou apaixonada por esportes e educação, e criei um interesse muito forte em tecnologia. Busco aprender mais sobre essa área no curso que faço no SENAI, vídeo-aulas no youtube e faço pesquisas sobre a área.
+Sou apaixonada por esportes e educação, e criei um interesse muito forte em tecnologia. Busco aprender mais sobre essa área no curso que faço no SENAI, vídeo-aulas no youtube e pesquisas sobre a área.
 
 <p align="left">
     <a href="https://www.youtube.com/watch?v=slHx426d3AA&t=12s&ab_channel=GrazielaBarros">
